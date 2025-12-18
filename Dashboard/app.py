@@ -1,0 +1,1 @@
+# App.py\n\nThis Python script will contain the Flask or Dash application for the renewable energy dashboard.
